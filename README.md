@@ -1,2 +1,0 @@
-# SUDUKO
-Suduko solver
